@@ -1,4 +1,4 @@
-# Money Matrix — Methodology Document
+# Money Matrix — Methodology
 **Strategy:** EMA Crossover (20/50) + RSI(14) + Bollinger Band Width  
 **Period:** May 2019 – May 2026 | **Capital:** $1,000,000
 
